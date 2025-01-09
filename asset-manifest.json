@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seungmin-97/-mypage/static/css/main.f8592a8c.css",
+    "main.js": "/seungmin-97/-mypage/static/js/main.0f5227d0.js",
+    "index.html": "/seungmin-97/-mypage/index.html",
+    "main.f8592a8c.css.map": "/seungmin-97/-mypage/static/css/main.f8592a8c.css.map",
+    "main.0f5227d0.js.map": "/seungmin-97/-mypage/static/js/main.0f5227d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8592a8c.css",
+    "static/js/main.0f5227d0.js"
+  ]
+}

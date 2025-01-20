@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/seungmin-97/mypage/static/css/main.a96e0011.css",
-    "main.js": "/seungmin-97/mypage/static/js/main.8b3003ff.js",
-    "index.html": "/seungmin-97/mypage/index.html",
-    "main.a96e0011.css.map": "/seungmin-97/mypage/static/css/main.a96e0011.css.map",
-    "main.8b3003ff.js.map": "/seungmin-97/mypage/static/js/main.8b3003ff.js.map"
+    "main.css": "/mypage/static/css/main.a96e0011.css",
+    "main.js": "/mypage/static/js/main.521379da.js",
+    "index.html": "/mypage/index.html",
+    "main.a96e0011.css.map": "/mypage/static/css/main.a96e0011.css.map",
+    "main.521379da.js.map": "/mypage/static/js/main.521379da.js.map"
   },
   "entrypoints": [
     "static/css/main.a96e0011.css",
-    "static/js/main.8b3003ff.js"
+    "static/js/main.521379da.js"
   ]
 }
